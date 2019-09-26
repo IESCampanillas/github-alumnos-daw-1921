@@ -14,3 +14,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Moreno,Aguilera, Javier](https://github.com/javiermorenoaguilera)
 * [Lopez Martin, Alberto](https://github.com/Albertolopezmartin)
 * [Milanes Barroso, Maria Teresa](https://github.com/MteresaMilanes)
+* [Luque Rodríguez, Javier](https://github.com/javierluque96)
