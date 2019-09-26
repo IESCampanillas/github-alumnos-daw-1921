@@ -3,7 +3,6 @@
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2019 - 2021
 
 
-* [Prof. JAJ](https://github.com/profesorjim)
 * [Aguilar Muñoz, Rafel](https://github.com/Rafael2026)
 * [Almahano Leiva, Juan Luis](https://github.com/jal535c)
 * [Ariel.Rojas](https://github.com/ArielMarbella)
