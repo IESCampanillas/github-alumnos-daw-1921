@@ -10,3 +10,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Marcos Gálvez, Jesús](https://github.com/Jesus-DAW)
 * [Almagro Rojas ,Sergio](https://github.com/sergioalmagrorojas)
 * [Getman, Mykola](https://github.com/mykolagetman)
+* [Campaña,Daniel](https://github.com/danielcampaluque?tab=repositories)
