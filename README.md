@@ -12,3 +12,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Getman, Mykola](https://github.com/mykolagetman)
 * [Campaña,Daniel](https://github.com/danielcampaluque?tab=repositories)
 * [Moreno,Aguilera, Javier](https://github.com/javiermorenoaguilera)
+* [Lopez,Martin, Alberto](https://github.com/Albertolopezmartin)
