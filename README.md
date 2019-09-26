@@ -6,5 +6,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Prof. JAJ](https://github.com/profesorjim)
 * [Ariel.Rojas](https://github.com/ArielMarbella)
 * [Ariño Muñoz, Pablo](https://github.com/Pabarino)
+* [Chahdi Dkikar, Mohamed](https://github.com/MohamedCD)
 * [Marcos Gálvez, Jesús](https://github.com/Jesus-DAW)
 * [Almagro Rojas ,Sergio](https://github.com/sergioalmagrorojas)
