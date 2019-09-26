@@ -5,4 +5,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 
 * [Prof. JAJ](https://github.com/profesorjim)
 * [Ariel.Rojas](https://github.com/ArielMarbella)
-* [Milanes Barroso,Maria Teresa](https://github.com/MteresaMilanes)
+* [AriñoMuñoz,Pablo](https://github.com/Pabarino)
