@@ -9,3 +9,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Chahdi Dkikar, Mohamed](https://github.com/MohamedCD)
 * [Marcos Gálvez, Jesús](https://github.com/Jesus-DAW)
 * [Almagro Rojas ,Sergio](https://github.com/sergioalmagrorojas)
+* [Getman, Mykola](https://github.com/mykolagetman)
