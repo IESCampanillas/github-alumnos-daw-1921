@@ -10,6 +10,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Banderas Tomillo, Ián](https://github.com/Ianbt2000/ian-trabajos)
 * [Campaña,Daniel](https://github.com/danielcampaluque?tab=repositories)
 * [Chahdi Dkikar, Mohamed](https://github.com/MohamedCD)
+* [Diaz Hurtado, Juan José](https://github.com/Jan4859)
 * [Getman, Mykola](https://github.com/mykolagetman)
 * [Gutiérrez Castro, Francisco](https://github.com/Kuman94)
 * [Hidalgo Moreno, Silvia](https://github.com/SilviaHidalgo/Programacion)
