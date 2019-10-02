@@ -22,5 +22,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Milanes Barroso, Maria Teresa](https://github.com/MteresaMilanes)
 * [Moreno,Aguilera, Javier](https://github.com/javiermorenoaguilera)
 * [Rojas, Ariel](https://github.com/ArielMarbella)
+* [Ruiz Jiménez, Antonio](https://github.com/rjantonio/programacion)
 * [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/Programaci-nDaw19-20.git)
 
