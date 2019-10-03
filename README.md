@@ -17,6 +17,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Hidalgo Moreno, Silvia](https://github.com/SilviaHidalgo/Programacion)
 * [Lopez Martin, Alberto](https://github.com/Albertolopezmartin)
 * [Luque Rodríguez, Javier](https://github.com/javierluque96)
+* [Mancera Taboada, Juan Pedro](https://github.com/juan2pedro)
 * [Marcos Gálvez, Jesús](https://github.com/Jesus-DAW)
 * [Martín González, César Julio](https://github.com/cesarjulio19/programacion)
 * [Milanes Barroso, Maria Teresa](https://github.com/MteresaMilanes)
