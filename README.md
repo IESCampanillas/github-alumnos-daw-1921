@@ -25,5 +25,5 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Ramirez,Escribano,Alvaro](https://github.com/AlvaroDaw)
 * [Rojas, Ariel](https://github.com/ArielMarbella)
 * [Ruiz Jiménez, Antonio](https://github.com/rjantonio/programacion)
-* [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/Programaci-nDaw19-20.git)
+* [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/ProgramacionDaw1920)
 
