@@ -29,3 +29,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Ruiz Jiménez, Antonio](https://github.com/rjantonio/programacion)
 * [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/ProgramacionDaw1920)
 * [Villena Sánchez, Iván](https://github.com/IvanVillena)
+* [Galán Pérez, Rubén](https://github.com/rubengalan)
