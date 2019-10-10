@@ -11,6 +11,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Campaña,Daniel](https://github.com/danielcampaluque?tab=repositories)
 * [Chahdi Dkikar, Mohamed](https://github.com/MohamedCD)
 * [Diaz Hurtado, Juan José](https://github.com/Jan4859)
+* [Galán Pérez, Rubén](https://github.com/rubengalan)
 * [García Felip, Juan Miguel](https://github.com/juanmi01)
 * [Getman, Mykola](https://github.com/mykolagetman)
 * [Gutiérrez Castro, Francisco](https://github.com/Kuman94)
@@ -29,4 +30,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Ruiz Jiménez, Antonio](https://github.com/rjantonio/programacion)
 * [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/ProgramacionDaw1920)
 * [Villena Sánchez, Iván](https://github.com/IvanVillena)
-* [Galán Pérez, Rubén](https://github.com/rubengalan)
+
