@@ -3,7 +3,7 @@
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2019 - 2021
 
 
-* [Aguilar Muñoz, Rafel](https://github.com/Rafael2026)
+* [Aguilar Muñoz, Rafael](https://github.com/Rafael2026)
 * [Almagro Rojas ,Sergio](https://github.com/sergioalmagrorojas/ejerciciosDAW)
 * [Almahano Leiva, Juan Luis](https://github.com/jal535c)
 * [Ariño Muñoz, Pablo](https://github.com/Pabarino)
