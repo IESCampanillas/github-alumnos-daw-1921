@@ -25,6 +25,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Fernández López, Paula](https://github.com/PaulaFdez)
 * [Moreno Aguilera, Javier](https://github.com/javiermorenoaguilera)
 * [Naranjo Cabrera, Javier](https://github.com/Jnaranjo01)
+* [Ramírez Bernal, Juan David](https://github.com/JuanDavid13)
 * [Ramirez,Escribano,Alvaro](https://github.com/AlvaroDaw)
 * [Rojas, Ariel](https://github.com/ArielMarbella)
 * [Ruiz Jiménez, Antonio](https://github.com/rjantonio/programacion)
